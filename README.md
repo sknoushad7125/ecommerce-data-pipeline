@@ -148,7 +148,9 @@ dbt-based transformations
 Dockerized deployment
 
 Author
+
 Noushad Sk
+
 Aspiring AI-Powered Data Engineer
 
 ---
