@@ -39,6 +39,7 @@ Apache Airflow (Scheduling & Monitoring)
 
 ## 📂 Project Structure
 
+```text
 ecommerce_data_pipeline/
 │
 ├── data/
@@ -58,7 +59,7 @@ ecommerce_data_pipeline/
 ├── config/
 ├── logs/
 └── README.md
-
+```
 
 ---
 
@@ -111,7 +112,7 @@ Designed for **analytics & reporting use cases**.
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/ecommerce-data-pipeline.git
+git clone https://github.com/sknoushad7125/ecommerce-data-pipeline.git
 cd ecommerce-data-pipeline
 2. Create Virtual Environment
 python3.10 -m venv venv
